@@ -1,0 +1,2 @@
+Entrar al repositorio y seguir las instrucciones
+https://github.com/kiwenlau/hadoop-cluster-docker
